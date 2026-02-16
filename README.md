@@ -20,5 +20,5 @@ PokeExplorer is a React application that consumes the PokéAPI.
 
 ## Live Demo
 
-- In Proccesing
+- https://dsovalle.github.io/PokeFinder/
 
