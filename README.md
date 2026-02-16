@@ -1,21 +1,24 @@
-<<<<<<< HEAD
-# React + Vite
+# PokeExplorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PokeExplorer is a React application that consumes the PokéAPI.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search Pokémon by name
+- Display Pokémon image, stats, type and abilities
+- Dynamic UI updates based on fetched data
+- Error handling with custom "Not Found" state
+- Scrolling Pokémon name list (marquee style)
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript (ES6+)
+- PokéAPI
+- GitHub Pages (deployment)
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# PokeFinder
-React + PokéAPI project with dynamic fetch handling and GitHub Pages deployment.
->>>>>>> b5f38fcd1b858d49a2cc5b9cd5f80629bdeee426
+- In Proccesing
+
